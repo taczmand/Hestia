@@ -1,2 +1,2 @@
-# hestia
+# Hestia
 Családi életünk digitális rendszere
